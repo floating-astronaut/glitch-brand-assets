@@ -1,6 +1,8 @@
-# Glitch Brand Assets
+# Glitch Executor Labs Brand Assets
 
-Shared visual identity for Glitch Executor and all sub-brands (Trade · Edge · Grow).
+Shared visual identity system for **Glitch Executor Labs** and the three product domains: **Trade**, **Edge**, and **Grow**.
+
+> **Glitch Executor Labs** is one builder shipping AI products across three domains: **Trade** (trading), **Edge** (betting), and **Grow** (digital marketing).
 
 ## Mascot — The Cyber Cobra
 
