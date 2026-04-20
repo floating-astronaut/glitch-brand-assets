@@ -10,7 +10,7 @@ A coiled ouroboros cobra with neon-green circuit-board tracery and glowing eyes.
 
 **Why a cobra?** The Glitch trading bot family is literally a snake lineage:
 Viper · Cobra · Indian King Cobra · Taipan · Mamba · Anaconda · Hydra · Terciopelo.
-The flagship strategy is `glitch-ouroboros-snake-strategy`. The mascot didn't pick the brand — the brand picked the mascot.
+The flagship strategy is `glitch-trade-ouroboros-snake-strategy`. The mascot didn't pick the brand — the brand picked the mascot.
 
 ![Cobra Mascot](mascot/web/mascot-512.png)
 
@@ -74,10 +74,10 @@ The wordmark word ("Trade", "Edge", "Grow") gets the sub-brand color tint. "Glit
 ### From CDN (preferred for sites)
 
 ```html
-<link rel="icon" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/favicon/favicon.ico">
-<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/favicon/favicon-32.png">
-<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/favicon/apple-touch-icon.png">
-<meta property="og:image" content="https://raw.githubusercontent.com/glitch-exec-labs/glitch-brand-assets/main/og/og-image.png">
+<link rel="icon" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/favicon/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/favicon/favicon-32.png">
+<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/favicon/apple-touch-icon.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/glitch-exec-labs/glitch-executor-labs-brand-assets/main/og/og-image.png">
 ```
 
 ### Local copy
